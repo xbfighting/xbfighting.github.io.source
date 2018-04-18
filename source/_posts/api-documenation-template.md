@@ -59,5 +59,4 @@ GET https://github.com/login/oauth/authorize
 
 **[markdown 模板原始文件][1]**
 
-
-[1]: https://raw.githubusercontent.com/xbfighting/xbfighting.github.io/master/xbfighting.github.io/source/_posts/api-documenation-template.md
+[1]: https://raw.githubusercontent.com/xbfighting/xbfighting.github.io.source/master/source/_posts/api-documenation-template.md
